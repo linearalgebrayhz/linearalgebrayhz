@@ -2,6 +2,8 @@
 
 My name is **Haozhe Yang**. I am a final-year undergraduate studying **Computer Science and Mathematics** at The University of Hong Kong.
 
+I am seeking PhD opportunities for Fall 2027.
+
 My research interests lie in **multimodal generative modeling**, **spatial intelligence**, and **embodied AI**. I want to understand how generative models can build useful internal representations of dynamic physical worlds, rather than merely generate plausible observations of them.
 
 In particular, I am interested in generative models that connect **language, vision, audio, motion, and physical dynamics**. I hope to explore how such models can move beyond producing perceptually plausible outputs toward understanding the structure, dynamics, and interactions of the world they model.
